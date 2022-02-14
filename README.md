@@ -1,5 +1,5 @@
-![Light](http://retrotube.ml/rtdark.png#gh-dark-mode-only)
-![Dark](http://retrotube.ml/retrotube.gif#gh-light-mode-only)
+![Light](https://retrotube.ml/rtdark.png#gh-dark-mode-only)
+![Dark](https://retrotube.ml/retrotube.gif#gh-light-mode-only)
 # RETROtube
 A semi-faithful recreation of old YouTube layouts!
 ## Current layouts
